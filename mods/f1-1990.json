@@ -1,0 +1,371 @@
+{
+	"drivers": [
+		{
+			"name": "Ayrton Senna",
+			"team": 0,
+			"aware": 90,
+			"race": 95,
+			"points": 0
+		},
+		{
+			"name": "Gerhard Berger",
+			"team": 0,
+			"aware": 90,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Alain Prost",
+			"team": 1,
+			"aware": 90,
+			"race": 95,
+			"points": 0
+		},
+		{
+			"name": "Nigel Mansell",
+			"team": 1,
+			"aware": 90,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Alessandro Nannini",
+			"team": 2,
+			"aware": 85,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Nelson Piquet",
+			"team": 2,
+			"aware": 90,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Thierry Boutsen",
+			"team": 3,
+			"aware": 80,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Riccardo Patrese",
+			"team": 3,
+			"aware": 85,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Jean Alesi",
+			"team": 4,
+			"aware": 85,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Satoru Nakajima",
+			"team": 4,
+			"aware": 75,
+			"race": 70,
+			"points": 0
+		},
+		{
+			"name": "Eric Bernard",
+			"team": 5,
+			"aware": 80,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Aguri Suzuki",
+			"team": 5,
+			"aware": 80,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Mauricio Gugelmin",
+			"team": 6,
+			"aware": 75,
+			"race": 70,
+			"points": 0
+		},
+		{
+			"name": "Ivan Capelli",
+			"team": 6,
+			"aware": 75,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Derek Warwick",
+			"team": 7,
+			"aware": 75,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Martin Donnelly",
+			"team": 7,
+			"aware": 75,
+			"race": 70,
+			"points": 0
+		},
+		{
+			"name": "Michele Alboreto",
+			"team": 8,
+			"aware": 75,
+			"race": 70,
+			"points": 0
+		},
+		{
+			"name": "Alex Caffi",
+			"team": 8,
+			"aware": 80,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "David Brabham",
+			"team": 9,
+			"aware": 75,
+			"race": 70,
+			"points": 0
+		},
+		{
+			"name": "Stefano Modena",
+			"team": 9,
+			"aware": 75,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Nicola Larini",
+			"team": 10,
+			"aware": 80,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Philippe Alliot",
+			"team": 10,
+			"aware": 75,
+			"race": 70,
+			"points": 0
+		},
+		{
+			"name": "Pierluigi Martini",
+			"team": 11,
+			"aware": 80,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Paolo Barilla",
+			"team": 11,
+			"aware": 70,
+			"race": 65,
+			"points": 0
+		},
+		{
+			"name": "Gregor Foitek",
+			"team": 12,
+			"aware": 75,
+			"race": 70,
+			"points": 0
+		},
+		{
+			"name": "J. J. Letho",
+			"team": 12,
+			"aware": 75,
+			"race": 65,
+			"points": 0
+		},
+		{
+			"name": "Gabriele Tarquini",
+			"team": 13,
+			"aware": 70,
+			"race": 60,
+			"points": 0
+		},
+		{
+			"name": "Yannick Dalmas",
+			"team": 13,
+			"aware": 75,
+			"race": 70,
+			"points": 0
+		},
+		{
+			"name": "Andrea De Cesaris",
+			"team": 14,
+			"aware": 75,
+			"race": 65,
+			"points": 0
+		},
+		{
+			"name": "Emanuele Pirro",
+			"team": 14,
+			"aware": 70,
+			"race": 60,
+			"points": 0
+		},
+		{
+			"name": "Olivier Grouillard",
+			"team": 15,
+			"aware": 75,
+			"race": 70,
+			"points": 0
+		},
+		{
+			"name": "Roberto Moreno",
+			"team": 16,
+			"aware": 80,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Claudio Langes",
+			"team": 16,
+			"aware": 70,
+			"race": 60,
+			"points": 0
+		},
+		{
+			"name": "Bertrand Gachot",
+			"team": 17,
+			"aware": 70,
+			"race": 60,
+			"points": 0
+		},
+		{
+			"name": "Bruno Giacomelli",
+			"team": 18,
+			"aware": 70,
+			"race": 60,
+			"points": 0
+		}
+	],
+	"const": [
+		{
+			"name": "McLaren",
+			"speed": 95,
+			"rel": 95
+		},
+		{
+			"name": "Ferrari",
+			"speed": 95,
+			"rel": 95
+		},
+		{
+			"name": "Benetton",
+			"speed": 85,
+			"rel": 95
+		},
+		{
+			"name": "Williams",
+			"speed": 80,
+			"rel": 95
+		},
+		{
+			"name": "Tyrrell",
+			"speed": 75,
+			"rel": 95
+		},
+		{
+			"name": "Lola",
+			"speed": 75,
+			"rel": 95
+		},
+		{
+			"name": "Leyton House",
+			"speed": 75,
+			"rel": 95
+		},
+		{
+			"name": "Lotus",
+			"speed": 70,
+			"rel": 95
+		},
+		{
+			"name": "Arrows",
+			"speed": 70,
+			"rel": 95
+		},
+		{
+			"name": "Brabham",
+			"speed": 70,
+			"rel": 95
+		},
+		{
+			"name": "Ligier",
+			"speed": 65,
+			"rel": 95
+		},
+		{
+			"name": "Minardi",
+			"speed": 65,
+			"rel": 95
+		},
+		{
+			"name": "Onyx",
+			"speed": 65,
+			"rel": 95
+		},
+		{
+			"name": "AGS",
+			"speed": 60,
+			"rel": 95
+		},
+		{
+			"name": "Dallara",
+			"speed": 65,
+			"rel": 95
+		},
+		{
+			"name": "Osella",
+			"speed": 60,
+			"rel": 95
+		},
+		{
+			"name": "EuroBrun",
+			"speed": 60,
+			"rel": 95
+		},
+		{
+			"name": "Coloni",
+			"speed": 50,
+			"rel": 95
+		},
+		{
+			"name": "Life",
+			"speed": 35,
+			"rel": 95
+		}
+	],
+	"wdc": [
+
+	],
+	"wcc": [
+
+	],
+	"other": {
+		"res": [
+
+		],
+		"ssn": 1,
+		"rnd": 1,
+		"pts": [
+			9,
+			6,
+			4,
+			3,
+			2,
+			1
+		],
+		"fl": [
+			false,
+			1
+		]
+	}
+}

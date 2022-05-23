@@ -1,0 +1,243 @@
+{
+	"drivers": [
+		{
+			"name": "Dennis Hauger",
+			"team": 0,
+			"aware": 80,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Jehan Daruvala",
+			"team": 0,
+			"aware": 90,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Jack Doohan",
+			"team": 1,
+			"aware": 75,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Marino Sato",
+			"team": 1,
+			"aware": 70,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Liam Lawson",
+			"team": 2,
+			"aware": 85,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Logan Sargeant",
+			"team": 2,
+			"aware": 80,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Marcus Armstrong",
+			"team": 3,
+			"aware": 85,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Jüri Vips",
+			"team": 3,
+			"aware": 75,
+			"race": 95,
+			"points": 0
+		},
+		{
+			"name": "Frederik Vesti",
+			"team": 4,
+			"aware": 75,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Théo Pourchaire",
+			"team": 4,
+			"aware": 80,
+			"race": 95,
+			"points": 0
+		},
+		{
+			"name": "Felipe Drugovich",
+			"team": 5,
+			"aware": 85,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Clément Novalak",
+			"team": 5,
+			"aware": 75,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Olli Caldwell",
+			"team": 6,
+			"aware": 70,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Ralph Boschung",
+			"team": 6,
+			"aware": 80,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Roy Nissany",
+			"team": 7,
+			"aware": 70,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Ayumu Iwasa",
+			"team": 7,
+			"aware": 80,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Richard Verschoor",
+			"team": 8,
+			"aware": 85,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Calan Williams",
+			"team": 8,
+			"aware": 80,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Enzo Fittipaldi",
+			"team": 9,
+			"aware": 85,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Cem Bölükbaşi",
+			"team": 9,
+			"aware": 70,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Jake Hughes",
+			"team": 10,
+			"aware": 80,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Amaury Cordeel",
+			"team": 10,
+			"aware": 70,
+			"race": 75,
+			"points": 0
+		}
+	],
+	"const": [
+		{
+			"name": "Prema",
+			"speed": 90,
+			"rel": 85
+		},
+		{
+			"name": "Viruosi",
+			"speed": 80,
+			"rel": 80
+		},
+		{
+			"name": "Carlin",
+			"speed": 90,
+			"rel": 85
+		},
+		{
+			"name": "Hitech Grand Prix",
+			"speed": 90,
+			"rel": 85
+		},
+		{
+			"name": "ART Grand Prix",
+			"speed": 90,
+			"rel": 85
+		},
+		{
+			"name": "MP Motorsport",
+			"speed": 90,
+			"rel": 85
+		},
+		{
+			"name": "Campos Racing",
+			"speed": 75,
+			"rel": 85
+		},
+		{
+			"name": "DAMS",
+			"speed": 80,
+			"rel": 85
+		},
+		{
+			"name": "Trident",
+			"speed": 80,
+			"rel": 85
+		},
+		{
+			"name": "Charouz Racing System",
+			"speed": 75,
+			"rel": 85
+		},
+		{
+			"name": "Van Amersfoort Racing",
+			"speed": 75,
+			"rel": 85
+		}
+	],
+	"wdc": [
+
+	],
+	"wcc": [
+
+	],
+	"other": {
+		"res": [
+
+		],
+		"ssn": 1,
+		"rnd": 1,
+		"pts": [
+			25,
+			18,
+			15,
+			12,
+			10,
+			8,
+			6,
+			4,
+			2,
+			1
+		], "fl": [
+			true, 
+			1
+		]
+	}
+}

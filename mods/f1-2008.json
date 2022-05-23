@@ -1,0 +1,242 @@
+{
+	"drivers": [
+		{
+			"name": "Kimi Raikonnen",
+			"team": 0,
+			"aware": 85,
+			"race": 95,
+			"points": 0
+		},
+		{
+			"name": "Felipe Massa",
+			"team": 0,
+			"aware": 90,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Nick Heidfeld",
+			"team": 1,
+			"aware": 85,
+			"race": 95,
+			"points": 0
+		},
+		{
+			"name": "Robert Kubica",
+			"team": 1,
+			"aware": 85,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Fernando Alonso",
+			"team": 2,
+			"aware": 90,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Nelson Piquet",
+			"team": 2,
+			"aware": 85,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Kazuki Nakajima",
+			"team": 3,
+			"aware": 85,
+			"race": 95,
+			"points": 0
+		},
+		{
+			"name": "Nico Rosberg",
+			"team": 3,
+			"aware": 75,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "David Coulthard",
+			"team": 4,
+			"aware": 95,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Mark Webber",
+			"team": 4,
+			"aware": 65,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Jarno Trulli",
+			"team": 5,
+			"aware": 80,
+			"race": 95,
+			"points": 0
+		},
+		{
+			"name": "Timo Glock",
+			"team": 5,
+			"aware": 80,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Sebastien Bourdais",
+			"team": 6,
+			"aware": 85,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Sebastian Vettel",
+			"team": 6,
+			"aware": 80,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Jenson Button",
+			"team": 7,
+			"aware": 90,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Rubens Barrichello",
+			"team": 7,
+			"aware": 75,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Takuma Sato",
+			"team": 8,
+			"aware": 85,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Anthony Davidson",
+			"team": 8,
+			"aware": 80,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Adrian Sutil",
+			"team": 9,
+			"aware": 90,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Giancarlo Fisichella",
+			"team": 9,
+			"aware": 60,
+			"race": 60,
+			"points": 0
+		},
+		{
+			"name": "Lewis Hamilton",
+			"team": 10,
+			"aware": 90,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Heikki Kovalainen",
+			"team": 10,
+			"aware": 60,
+			"race": 60,
+			"points": 0
+		}
+	],
+	"const": [
+		{
+			"name": "Ferrari",
+			"speed": 95,
+			"rel": 95
+		},
+		{
+			"name": "BMW Sauber",
+			"speed": 95,
+			"rel": 75
+		},
+		{
+			"name": "Renault",
+			"speed": 85,
+			"rel": 75
+		},
+		{
+			"name": "Williams",
+			"speed": 75,
+			"rel": 75
+		},
+		{
+			"name": "Red Bull Racing",
+			"speed": 80,
+			"rel": 85
+		},
+		{
+			"name": "Toyota",
+			"speed": 80,
+			"rel": 85
+		},
+		{
+			"name": "Toro Rosso",
+			"speed": 75,
+			"rel": 85
+		},
+		{
+			"name": "Honda",
+			"speed": 80,
+			"rel": 70
+		},
+		{
+			"name": "Super Aguri",
+			"speed": 65,
+			"rel": 65
+		},
+		{
+			"name": "Force India",
+			"speed": 70,
+			"rel": 60
+		},
+		{
+			"name": "McLaren Mercedes",
+			"speed": 65,
+			"rel": 65
+		}
+	],
+	"wdc": [
+
+	],
+	"wcc": [
+
+	],
+	"other": {
+		"res": [
+
+		],
+		"ssn": 1,
+		"rnd": 1,
+		"pts": [
+			10,
+			8,
+			6,
+			5,
+			4,
+			3,
+			2,
+			1
+		],
+		"fl": [
+			false,
+			1
+		]
+	}
+}

@@ -1,0 +1,224 @@
+{
+	"drivers": [
+		{
+			"name": "Charles Leclerc",
+			"team": 0,
+			"aware": 85,
+			"race": 95,
+			"points": 0
+		},
+		{
+			"name": "Carlos Sainz",
+			"team": 0,
+			"aware": 90,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Max Verstappen",
+			"team": 1,
+			"aware": 85,
+			"race": 95,
+			"points": 0
+		},
+		{
+			"name": "Sergio Perez",
+			"team": 1,
+			"aware": 85,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Lewis Hamilton",
+			"team": 2,
+			"aware": 90,
+			"race": 95,
+			"points": 0
+		},
+		{
+			"name": "Valtteri Bottas",
+			"team": 2,
+			"aware": 95,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Lando Norris",
+			"team": 3,
+			"aware": 85,
+			"race": 95,
+			"points": 0
+		},
+		{
+			"name": "Daniel Ricciardo",
+			"team": 3,
+			"aware": 75,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Kimi Raikonnen",
+			"team": 4,
+			"aware": 85,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Antonio Giovinazzi",
+			"team": 4,
+			"aware": 75,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Fernando Alonso",
+			"team": 5,
+			"aware": 80,
+			"race": 95,
+			"points": 0
+		},
+		{
+			"name": "Esteban Ocon",
+			"team": 5,
+			"aware": 80,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Pierre Gasly",
+			"team": 6,
+			"aware": 85,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Yuki Tsunoda",
+			"team": 6,
+			"aware": 75,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Nikita Mazepin",
+			"team": 7,
+			"aware": 60,
+			"race": 60,
+			"points": 0
+		},
+		{
+			"name": "Mick Schumacher",
+			"team": 7,
+			"aware": 70,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Sebastian Vettel",
+			"team": 8,
+			"aware": 85,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Lance Stroll",
+			"team": 8,
+			"aware": 80,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "George Russell",
+			"team": 9,
+			"aware": 85,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Nicholas Latifi",
+			"team": 9,
+			"aware": 70,
+			"race": 70,
+			"points": 0
+		}
+	],
+	"const": [
+		{
+			"name": "Ferrari",
+			"speed": 85,
+			"rel": 85
+		},
+		{
+			"name": "Red Bull",
+			"speed": 95,
+			"rel": 85
+		},
+		{
+			"name": "Mercedes",
+			"speed": 90,
+			"rel": 90
+		},
+		{
+			"name": "McLaren",
+			"speed": 85,
+			"rel": 85
+		},
+		{
+			"name": "Alfa Romeo",
+			"speed": 70,
+			"rel": 80
+		},
+		{
+			"name": "Alpine",
+			"speed": 80,
+			"rel": 80
+		},
+		{
+			"name": "AlphaTauri",
+			"speed": 80,
+			"rel": 80
+		},
+		{
+			"name": "Haas",
+			"speed": 65,
+			"rel": 70
+		},
+		{
+			"name": "Aston Martin",
+			"speed": 80,
+			"rel": 75
+		},
+		{
+			"name": "Williams",
+			"speed": 75,
+			"rel": 80
+		}
+	],
+	"wdc": [
+
+	],
+	"wcc": [
+
+	],
+	"other": {
+		"res": [
+
+		],
+		"ssn": 1,
+		"rnd": 1,
+		"pts": [
+			25,
+			18,
+			15,
+			12,
+			10,
+			8,
+			6,
+			4,
+			2,
+			1
+		], "fl": [
+			true, 
+			1
+		]
+	}
+}

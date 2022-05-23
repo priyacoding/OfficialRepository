@@ -1,0 +1,263 @@
+{
+	"drivers": [
+		{
+			"name": "Sebastian Vettel",
+			"team": 0,
+			"aware": 90,
+			"race": 95,
+			"points": 0
+		},
+		{
+			"name": "Mark Webber",
+			"team": 0,
+			"aware": 90,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Jenson Button",
+			"team": 1,
+			"aware": 85,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Lewis Hamilton",
+			"team": 1,
+			"aware": 85,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Fernando Alonso",
+			"team": 2,
+			"aware": 90,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Felipe Massa",
+			"team": 2,
+			"aware": 85,
+			"race": 85,
+			"points": 0
+		},
+		{
+			"name": "Michael Schumacher",
+			"team": 3,
+			"aware": 85,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Nico Rosberg",
+			"team": 3,
+			"aware": 85,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Kimi Raikonnen",
+			"team": 4,
+			"aware": 95,
+			"race": 90,
+			"points": 0
+		},
+		{
+			"name": "Romain Grosjean",
+			"team": 4,
+			"aware": 70,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Paul di Resta",
+			"team": 5,
+			"aware": 80,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Nico Hulkenberg",
+			"team": 5,
+			"aware": 80,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Kamui Kobayashi",
+			"team": 6,
+			"aware": 85,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Sergio Perez",
+			"team": 6,
+			"aware": 80,
+			"race": 80,
+			"points": 0
+		},
+		{
+			"name": "Daniel Ricciardo",
+			"team": 7,
+			"aware": 85,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Jean-Eric Vergne",
+			"team": 7,
+			"aware": 80,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Pastor Maldonado",
+			"team": 8,
+			"aware": 60,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Bruno Senna",
+			"team": 8,
+			"aware": 80,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Heikki Kovaleinen",
+			"team": 9,
+			"aware": 80,
+			"race": 70,
+			"points": 0
+		},
+		{
+			"name": "Vitaly Petrov",
+			"team": 9,
+			"aware": 80,
+			"race": 75,
+			"points": 0
+		},
+		{
+			"name": "Pedro de la Rosa",
+			"team": 10,
+			"aware": 80,
+			"race": 70,
+			"points": 0
+		},
+		{
+			"name": "Narain Karthikeyan",
+			"team": 10,
+			"aware": 70,
+			"race": 65,
+			"points": 0
+		},
+		{
+			"name": "Timo Glock",
+			"team": 11,
+			"aware": 80,
+			"race": 70,
+			"points": 0
+		},
+		{
+			"name": "Charles Pic",
+			"team": 11,
+			"aware": 75,
+			"race": 70,
+			"points": 0
+		}
+	],
+	"const": [
+		{
+			"name": "Red Bull Racing",
+			"speed": 95,
+			"rel": 95
+		},
+		{
+			"name": "McLaren Mercedes",
+			"speed": 95,
+			"rel": 60
+		},
+		{
+			"name": "Ferrari",
+			"speed": 85,
+			"rel": 75
+		},
+		{
+			"name": "Mercedes",
+			"speed": 75,
+			"rel": 75
+		},
+		{
+			"name": "Lotus",
+			"speed": 80,
+			"rel": 85
+		},
+		{
+			"name": "Force India",
+			"speed": 75,
+			"rel": 85
+		},
+		{
+			"name": "Sauber",
+			"speed": 75,
+			"rel": 85
+		},
+		{
+			"name": "Toro Rosso",
+			"speed": 75,
+			"rel": 70
+		},
+		{
+			"name": "Williams",
+			"speed": 75,
+			"rel": 75
+		},
+		{
+			"name": "Caterham",
+			"speed": 70,
+			"rel": 75
+		},
+		{
+			"name": "HRT",
+			"speed": 65,
+			"rel": 65
+		},
+		{
+			"name": "Marussia",
+			"speed": 70,
+			"rel": 70
+		}
+	],
+	"wdc": [
+
+	],
+	"wcc": [
+
+	],
+	"other": {
+		"res": [
+
+		],
+		"ssn": 1,
+		"rnd": 1,
+		"pts": [
+			25,
+			18,
+			15,
+			12,
+			10,
+			8,
+			6,
+			4,
+			2,
+			1
+		],
+		"fl": [
+			false,
+			1
+		]
+	}
+}
