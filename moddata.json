@@ -1,6 +1,6 @@
 {
     "modfolder": "mods",
-    "modpaths": ["f1-2021.json", "f1-2012.json", "f1-2008.json", "f1-1990.json", "f2-2022.json"],
+    "modpaths": ["/f1-2021.json", "/f1-2012.json", "/f1-2008.json", "/f1-1990.json", "/f2-2022.json"],
     "names": ["F1 2021", "F1 2012", "F1 2008", "F1 1990", "F2 2022"],
     "descriptions": [
         "A mod for the 2021 Formula One Season", 
